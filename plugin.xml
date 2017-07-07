@@ -13,7 +13,7 @@
     <repo>https://github.com/edgarmaial3/cordova-azure-mobile-services/</repo>
     <issue>https://github.com/msopentech/cordova-azure-mobile-services/issues</issue>
 
-    <dependency id="org.apache.cordova.inappbrowser"/>
+    <dependency id="cordova-plugin-inappbrowser"/>
 
     <platform name="windows8">
         <js-module src="www/MobileServices.Web.Ext.js" name="AzureMobileServices.Ext">
