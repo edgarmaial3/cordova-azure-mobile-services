@@ -1,5 +1,5 @@
 {
-  "name": "cordova-azure-mobile-services",
+  "name": "com.msopentech.azure-mobile-services",
   "version": "1.0.0",
   "description": "Azure Mobile Services",
   "main": "index.js",
